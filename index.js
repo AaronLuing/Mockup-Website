@@ -4,5 +4,5 @@ const woohoo = new Audio('sounds/woohoo.mp3')
 function Greeting(){
   tada.volume=0.1;
   tada.play();
-  alert("Bitch");
+  alert("You made it!");
 }
